@@ -35,7 +35,7 @@ Un CV en **HTML5 / CSS3**, structuré avec des balises sémantiques et organisé
 💡 Aucun serveur ni installation supplémentaire n’est nécessaire.
 
 ## 👤 Auteur
-Projet réalisé par **Cédric Kernec**  
+Projet réalisé par **Cédric Kernec** | **PixSeed**
 Dans le cadre de la formation **Développeur Web et Web Mobile** (*Centre Européen de Formation*).
 - [LinkedIn](https://www.linkedin.com/in/cedric-kernec/)
 - [GitHub](https://github.com/cedrickernec) 
