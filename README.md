@@ -26,7 +26,7 @@ Un CV en **HTML5 / CSS3**, structuré avec des balises sémantiques et organisé
 ## 🛠️ Utilisation
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/cedrickernec/Kernec_Cedric_Devoir_3_CV_HTML_CSS.git
+   git clone https://github.com/pixseed/devoir_3_CV_HTML_CSS.git
 2. Ouvrir le projet.
    ```bash
    Naviguer dans le dossier du projet.
@@ -38,4 +38,4 @@ Un CV en **HTML5 / CSS3**, structuré avec des balises sémantiques et organisé
 Projet réalisé par **Cédric Kernec** | **PixSeed**
 Dans le cadre de la formation **Développeur Web et Web Mobile** (*Centre Européen de Formation*).
 - [LinkedIn](https://www.linkedin.com/in/cedric-kernec/)
-- [GitHub](https://github.com/cedrickernec) 
+- [GitHub](https://github.com/pixseed) 
